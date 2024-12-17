@@ -3,7 +3,7 @@
 ## Overview
 This repo contains Jsx files in the src folder which help us to setup the project in local environment
 
-##Steps to acces
+## Steps to access
 Iniitally install the vite project setup 
 
 ```bash
