@@ -7,7 +7,7 @@ This repo contains Jsx files in the src folder which help us to setup the projec
 Iniitally install the vite project setup 
 
 ```bash
-npm create vites@latest
+npm create vite@latest
 
 select react
 select javascript
