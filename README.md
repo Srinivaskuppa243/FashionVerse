@@ -17,7 +17,7 @@ nom install
 npm i react-router-dom
 npm i bootsrap@latest
 ```
-and then we will have src folder remove that src folder and put this
+and then we will replace the src folder with this src folder
 From there you can access the project
 
 ## To run the project
