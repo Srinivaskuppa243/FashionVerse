@@ -4,7 +4,7 @@
 This repo contains Jsx files in the src folder which help us to setup the project in local environment
 
 ## Steps to access
-Iniitally install the vite project setup 
+Iniitally setup your local environment using below commands
 
 ```bash
 npm create vite@latest
